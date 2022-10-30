@@ -18,9 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
-.more-details {
-  text-align: center;
-}
+
+  .more-details {
+    text-align: center;
+  }
+
 }
 .main {
   display: block;
