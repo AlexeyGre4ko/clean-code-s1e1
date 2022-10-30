@@ -32,7 +32,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-wrapper {
+.task-wrap {
   display: flex;
 }
 ul {
@@ -129,7 +129,7 @@ button.delete img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+ul#compl-tasks label {
   text-decoration: line-through;
   color: #888;
 }
